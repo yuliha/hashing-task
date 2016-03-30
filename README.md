@@ -1,6 +1,6 @@
 # hashing-task
 Hashing exercise on apps descriptions from iTunes App Store
-____
+__
 Program takes as input a file with iTunes IDs.
 Extracts the ApplicationID and the description from the data using the Hashing Trick to vectorized the data. Than, computes the similarity between each description. Using the similarity metric of cosine distance. 
 
